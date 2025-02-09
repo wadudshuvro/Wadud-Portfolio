@@ -15,7 +15,8 @@ const Header = () => {
         <Image src={assets.hand_icon} alt="" className="w-6" />
       </h3>
       <h1 className="text-3x1 sm:text-6xl lg:text-[66px] font-Ovo">
-        frontend web developer based in Bangladesh.
+        frontend web developer <br />
+        based in Bangladesh.
       </h1>
       <p className="max-w-2xl mx-auto font-Ovo">
         I am a frontend developer from Banglades with 4 years of experience in
